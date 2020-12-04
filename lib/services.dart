@@ -3,7 +3,6 @@ library services;
 import 'package:services/UserService.dart';
 import 'package:services/getaway/FirebaseAuthGtaway.dart';
 
-/// A Calculator.
 class Services {
   UserService _userService;
 
